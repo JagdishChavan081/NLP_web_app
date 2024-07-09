@@ -1,0 +1,18 @@
+{
+    "abc@gmail.com": [
+        "abc",
+        "1234"
+    ],
+    "def@gmail.com": [
+        "def",
+        "1234"
+    ],
+    "xyz@gmail.com": [
+        "xyz",
+        "4567"
+    ],
+    "wer@gmail.com": [
+        "wer",
+        "12345"
+    ]
+}
